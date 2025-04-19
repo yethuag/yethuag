@@ -1,5 +1,4 @@
-<h3 align="center">A passionate Supervised ML Student from Myanmar</h3>
- <h2>Goals are to explore algorithms to save environment 🤓</h2>
+<h3 align="center">Goals here is to explore algorithms to save environment 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yethuag&label=Profile%20views&color=0e75b6&style=flat" alt="yethuag" /> </p>
 
