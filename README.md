@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **adorosis42@gmail.com**
 
-- ⚡ Fun fact **I don't use relational databases🤓**
+- ⚡ Fun fact **Cassandra Database enjoyer🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
